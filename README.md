@@ -31,4 +31,4 @@
   - Chart.js
 
 ## Live Site
-- [Live Site]([https://supply-note-2dd072.netlify.app/])
+- [Live Site](https://supply-note-2dd072.netlify.app/)
