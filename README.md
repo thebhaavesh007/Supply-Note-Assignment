@@ -1,4 +1,4 @@
-# URL Shortener FrontEnd
+# Suppply Note Assignment
 ## Overview
 - Create a Shorter URL for Given URL 
 - can Check number if Short URL created per month and week using Chart.js
