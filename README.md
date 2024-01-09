@@ -30,8 +30,5 @@
   - Tailwind CSS
   - Chart.js
 
-## Back End Code
-- [BackEnd](https://github.com/Praveen8161/urlshortener-backend.git)
-
 ## Live Site
 - [Live Site](https://url-shortener-8161.netlify.app/)
