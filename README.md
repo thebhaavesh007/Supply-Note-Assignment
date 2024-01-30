@@ -1,6 +1,6 @@
-# Supply Note Assignment
+# URL SHORTNER
 ## Overview
-- Create a Shorter URL for Given URL 
+- Create a ShortNer URL for Given URL 
 - can Check number if Short URL created per month and week using Chart.js
 - Update the URL Count for everytime the URL is Clicked
 
